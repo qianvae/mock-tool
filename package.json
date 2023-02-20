@@ -1,5 +1,5 @@
 {
-  "name": "mock-tool",
+  "name": "mock-tool-vue2",
   "version": "1.0.0",
   "description": "mock data for vue2 project",
   "main": "index.js",

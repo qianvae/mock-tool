@@ -11,7 +11,7 @@ devServer: {
     port: 3000,
     disableHostCheck: true,
     https: false,
-    proxy: require('mock-tool')(
+    proxy: require('mock-tool-vue2')(
       ['http://a.com'],
       ['/api'],
       { logLevel: 'debug' }
